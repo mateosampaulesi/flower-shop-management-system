@@ -1,17 +1,17 @@
 🌸 Flower Shop Management System
-📌 Project Description
+  Project Description:
 
 Object-oriented flower shop management system developed in Dolphin Smalltalk as part of a university project.
 
 The system models the core business logic of a flower shop, including flowers, bouquets, customers, and orders, applying object-oriented design principles.
 
-🛠 Technologies Used
+  Technologies Used:
 
 Dolphin Smalltalk
 
 Object-Oriented Programming (OOP)
 
-⚙️ Features
+  Features:
 
 Flower entity management
 
@@ -23,7 +23,7 @@ Order (Pedido) creation and processing
 
 Business rules for deliveries outside Rosario
 
-🧠 Concepts Applied
+  Concepts Applied:
 
 Object-Oriented Programming
 
@@ -35,6 +35,6 @@ Business logic implementation
 
 Domain modeling
 
-👥 Development Context
+  Development Context:
 
 Developed as part of a university project in collaboration with classmates.
