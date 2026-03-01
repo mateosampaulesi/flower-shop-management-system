@@ -1,5 +1,5 @@
 ﻿| package |
-package := Package name: 'Floreriabro'.
+package := Package name: 'flower-shop-maganement-system'.
 package paxVersion: 1;
 	basicComment: ''.
 
@@ -475,4 +475,5 @@ RecargoEnvio := (Prompter prompt: 'Ingrese el recargo de env�os: ' ) asNumber.
 !FueraRosario class categoriesFor: #recargo!public! !
 
 "Binary Globals"!
+
 
